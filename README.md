@@ -1,11 +1,14 @@
+# Valheim Plus
+Este é o antigo mod da Comunidade brasileira de Valheim, está disponível aqui, conforme os requisitos da licença do repositório original.
+Em respeito e gratidão ao criador original Kevin 'nx#8830' J., eu mantenho este repositório.
+
+--
+
 ![ValheimPlus Logo](https://i.imgur.com/iF2Z0Wo.png)
 # Valheim Brasil
 Valheim Brasil é uma comunidade de valheim brasileira dedicada a levar diversão e integrar toda a comunidade em um local só, eu, castiel, criador da comunidade me dediquei em fazer esta modificação para atender as necessidades dos nossos modos de jogo e dentre outros.
 
 [Discord da Comunidade](https://discord.gg/2FJmVXfWzv)
-
-# Valheim Plus
-Um HarmonyX Mod destinado a melhorar a qualidade de jogo da Valheim. O mod inclui várias características principais, incluindo modificadores para estatísticas de jogadores, edifícios e entidades no jogo e um sistema sofisticado para construir e colocar objetos com alta precisão e um sistema para modificar objetos já colocados com alta precisão. O objetivo geral é fornecer V+ como uma modificação de base para sua jogabilidade a fim de aumentar a qualidade de vida, mudar a dificuldade ou ter uma melhor experiência em geral. O mod também vem com um sistema de controle de versão e configuração para servidores e usuários, permitindo que os servidores garantam que somente pessoas com a mesma configuração sejam capazes de se juntar a seus servidores.
 
 ## Creditos e Repositório Original
 [Repositório original](https://github.com/valheimPlus/ValheimPlus)
@@ -20,7 +23,6 @@ Um HarmonyX Mod destinado a melhorar a qualidade de jogo da Valheim. O mod inclu
 * Mehdi 'AccretionCD' E. - https://github.com/AccretionCD
 * Zogniton - https://github.com/Zogniton - Inventiry Overhaul initial creator
 * Jules - https://github.com/sirskunkalot
-* João P. 'Castiel' Freitas - https://github.com/CastBlacKing - Valheim Brasil
 
 # ValheimPlus Server Hosting
 Below you can find a list of hosting companies that are supporting ValehimPlus with good prices and easy installation.
