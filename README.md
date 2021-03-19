@@ -2,9 +2,6 @@
 Este é o antigo mod da Comunidade brasileira de Valheim, está disponível aqui, conforme os requisitos da licença do repositório original.
 Em respeito e gratidão ao criador original Kevin 'nx#8830' J., eu mantenho este repositório.
 
---
-
-![ValheimPlus Logo](https://i.imgur.com/iF2Z0Wo.png)
 # Valheim Brasil
 Valheim Brasil é uma comunidade de valheim brasileira dedicada a levar diversão e integrar toda a comunidade em um local só, eu, castiel, criador da comunidade me dediquei em fazer esta modificação para atender as necessidades dos nossos modos de jogo e dentre outros.
 
